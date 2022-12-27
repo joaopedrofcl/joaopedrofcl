@@ -1,6 +1,5 @@
 # Olá, meu nome é João Pedro!
-<p>Sou desenvolvedor Front-end. Realizo trabalhos freelancers, porém estou em busca de vagas de trabalho formais em empresas de tecnologia. Caso deseje me conhecer melhor, acesse o link a baixo:<p>
-<a href="https://github.com/joaopedrofcl">meuportifolio<a>
+<p>Sou desenvolvedor Front-end. Realizo trabalhos freelancers, porém estou em busca de vagas de trabalho formais em empresas de tecnologia.</p>
 
 <div align="center">
   <a href="https://github.com/joaopedrofcl">
