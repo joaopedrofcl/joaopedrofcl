@@ -13,5 +13,6 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Joao-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="right" alt="Jellymon" height="150" style="border-radius:50px;" width="250" height="500" src="https://64.media.tumblr.com/9e48cd54254ef772f98b87433d487938/1fe6ac4f83fadec8-ac/s640x960/e7d1dc7e0251ac071a76012844bcbb7b32bf40fb.gif?">
  
   
